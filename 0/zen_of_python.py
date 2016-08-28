@@ -10,4 +10,4 @@ __acknowledgements = ['https://hg.python.org/peps/file/tip/pep-0020.txt']
 
 import this
 
-pass
+print('https://hg.python.org/peps/file/tip/pep-0020.txt')
