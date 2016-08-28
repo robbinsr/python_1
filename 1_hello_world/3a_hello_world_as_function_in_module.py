@@ -1,8 +1,8 @@
 #!/usr/bin/env python
-_interpreters_ = ['Python 3.5.3 (CPython)']
+_interpreters_ = ['Python 3_instructions.5.3_instructions (CPython)']
 __author__ = "Russ Robbins"
 __license__ = "MIT"
-__version__ = "0.0.1"
+__version__ = "0.0.4_resources"
 __maintainer__ = "Russ Robbins"
 __email__ = "russ.robbins@outlook.com"
 __encoding__ = "UTF-8"
@@ -22,7 +22,7 @@ def hello_world():
 if __name__ == '__main__':
     hello_world()
 
-# run at os command prompt with python 0_hello_world.py in the same directory
+# run at os command prompt with python 1a_hello_world.py in the same directory
 # as the file
 
 # run at python repl with import hello_world, then call hello_world()
