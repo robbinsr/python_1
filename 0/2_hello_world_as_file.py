@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-_interpreters_ = ['Python 3.5.2 (CPython)']
+_interpreters_ = ['Python 3.5.3 (CPython)']
 __author__ = "Russ Robbins"
 __license__ = "MIT"
 __version__ = "0.0.1"
@@ -10,8 +10,8 @@ __acknowledgements = ['https://hg.python.org/peps/file/tip/pep-0020.txt']
 
 print("Hello, World!")
 print("from a file called at the operating system command prompt")
-
-# run at os command prompt with python hello_world.py in the same directory
-# as the file
-
-# run at python repl with import hello_world
+print("in the same directory as the file and using the syntax ")
+print("'python hello_world_as_file.py' followed by enter")
+print("or")
+print("at the python REPL by typing 'import hello_world' and pressing")
+print("enter")
