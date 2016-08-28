@@ -8,6 +8,7 @@ __email__ = "russ.robbins@outlook.com"
 __encoding__ = "UTF-8"
 __acknowledgements = ['https://hg.python.org/peps/file/tip/pep-0020.txt']
 
+
 def hello_world():
     print("Hello, World!")
     print("from a file callable at the operating system command prompt")
@@ -16,6 +17,7 @@ def hello_world():
     print("or callable from the python repl using <hello_world()> after ")
     print("function has been imported with <from hello_world_as_module ")
     print('import hello_world')
+
 
 if __name__ == '__main__':
     hello_world()
