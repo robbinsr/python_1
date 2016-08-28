@@ -9,3 +9,5 @@ __encoding__ = "UTF-8"
 __acknowledgements = ['https://hg.python.org/peps/file/tip/pep-0020.txt']
 
 import this
+
+pass
