@@ -13,8 +13,8 @@ def hello_world():
     print("Hello, World!")
     print("from a file callable at the operating system command prompt")
     print("and which has a hello_world function defined")
-    print("or")
-    print("or callable from the python repl using <hello_world()> after ")
+    print("or ")
+    print("callable from the python repl using <hello_world()> after ")
     print("function has been imported with <from hello_world_as_module ")
     print('import hello_world')
 
